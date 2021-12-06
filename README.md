@@ -5,6 +5,9 @@
 
 >register, login, next, current (get, put) 
 
+> API_Documentation 
+[API_DOCS.md](./API_DOCS.md) 
+
 ```
 Steps to test: 
 -------------
