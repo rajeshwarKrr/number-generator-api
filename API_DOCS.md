@@ -1,15 +1,16 @@
 # API DOCUMENTATION
 
 Localhost URL : http://localhost:5000
-Server URL : 
+
+Server URL : https://number-generator-api.herokuapp.com
 
 Use terminal to set API_URL
 
->SET API_URL= http://localhost:5000
+>SET API_URL=http://localhost:5000
 
 OR 
 
->SET API_URL= http://localhost:5000
+>SET API_URL=https://number-generator-api.herokuapp.com
 ### Register 
 > /v1/auth/register POST
 
