@@ -25,7 +25,9 @@ Steps to test:
 >Taken breaks in between to manage my routine. Approximately finished the project in 4hrs
 ### Assumptions made
 > Using Windows machine and windows CMD for CURL
+
 >Email, Id and username are added to JWT payload as I'm assuming this application is not specific for LOGIN and REGISTER, but specific for number generator 
+
 >Mongoose ODM is used to simplify the database manage the Collection and querying Mongodb
 
 ### Shortcuts/Compromises made
